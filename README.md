@@ -6,7 +6,7 @@
   <img src="capa_p5.png" >
 </p>
 
-> **Acesse o projeto completo aqui: [Notebook do Projeto]()**
+> **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Health_Insurance_Prediction/blob/main/AutoML_aplicado_%C3%A0_previs%C3%A3o_de_custo_de_seguro_de_vida.ipynb)**
 
 Diante dos desafios que muitas pessoas enfrentam ao se comprometerem com os custos de um plano de saúde, a emergência de modelos de aprendizado de máquina oferece uma esperança tanto para os indivíduos quanto para a indústria de saúde como um todo.
 
@@ -33,10 +33,12 @@ Em suma, neste projeto iremos utilizar o AutoML baseado no PyCaret para criar mo
 
 ## Resultados
 
-Utilizando um pipeline para pré-processamento, comparação, construção e otimização de modelos de regressão linear, foram escolhidos três modelos para testes: **Bayesian Ridge, **Lasso Lars** e **Lasso Regression**. A média de desempenho destes três modelos após otimização de hiperparâmetros via *Grid Search* foi de um R2 igual a 0,8779 e um RMSE de 4161. Dentre os três, se destacou o **Bayesian Ridge** com R2 de 0,878 e RMSE de 4159. Este modelo foi capaz de prever os custos anuais de um plano de saúde para novos indivíduos com um boa aproximação, dentro de um intervalo de 13% do valor real tabelado.
+Utilizando um pipeline para pré-processamento, comparação, construção e otimização de modelos de regressão linear, foram escolhidos três modelos para testes: **Bayesian Ridge**, **Lasso Lars** e **Lasso Regression**. A média de desempenho destes três modelos após otimização de hiperparâmetros via *Grid Search* foi de um R2 igual a 0,8779 e um RMSE de 4161. Dentre os três, se destacou o **Bayesian Ridge** com R2 de 0,878 e RMSE de 4159. Este modelo foi capaz de prever os custos anuais de um plano de saúde para novos indivíduos com um boa aproximação, dentro de um intervalo de 13% do valor real tabelado.
+
+[Acesse o Notebook do Projeto](https://github.com/gabrielrflopes/Health_Insurance_Prediction/blob/main/AutoML_aplicado_%C3%A0_previs%C3%A3o_de_custo_de_seguro_de_vida.ipynb)
 
 ## Links Importantes
 
-* Artigos no Medium: https://medium.com/@grflopes
-* LinkedIn: https://www.linkedin.com/in/gabrielrflopes/
+* [Medium](https://medium.com/@grflopes)
+* [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
 
