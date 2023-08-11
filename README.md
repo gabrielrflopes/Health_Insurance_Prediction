@@ -42,3 +42,5 @@ Utilizando um pipeline para pré-processamento, comparação, construção e oti
 * [Medium](https://medium.com/@grflopes)
 * [LinkedIn](https://www.linkedin.com/in/gabrielrflopes/)
 
+<sub> [Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
+
