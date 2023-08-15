@@ -6,7 +6,7 @@
   <img src="capa_p5.png" >
 </p>
 
-> **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Health_Insurance_Prediction/blob/main/AutoML_aplicado_%C3%A0_previs%C3%A3o_de_custo_de_seguro_de_vida.ipynb)**
+> **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Health_Insurance_Prediction/blob/main/PROJETO_AutoML_aplicado_%C3%A0_previs%C3%A3o_de_custo_de_seguro_de_vida.ipynb)**
 
 Diante dos desafios que muitas pessoas enfrentam ao se comprometerem com os custos de um plano de saúde, a emergência de modelos de aprendizado de máquina oferece uma esperança tanto para os indivíduos quanto para a indústria de saúde como um todo.
 
